@@ -1,1 +1,1 @@
-# [Wiki Docs](https://github.com/BRCMapStation/Docs/wiki)
+# [Wiki Docs](https://github.com/BRCMapStation/Docs/wiki/Starting-up)
